@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/player168998/imgui-v1.92.5-docking)
 Dear ImGui
 =====
 
